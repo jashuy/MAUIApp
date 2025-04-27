@@ -65,6 +65,6 @@
 	</ItemGroup>
 	
 <PropertyGroup>
-    <PublishTrimmed>false</PublishTrimmed>
+    <PublishTrimmed>True</PublishTrimmed>
 </PropertyGroup>
 </Project>
