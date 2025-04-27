@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InstantEats")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+54712c51c5332589a0d52d73c66e4a9d783f1084")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+de56df32705a892f5183682b54d08e0cd41b4006")]
 [assembly: System.Reflection.AssemblyProductAttribute("InstantEats")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InstantEats")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
