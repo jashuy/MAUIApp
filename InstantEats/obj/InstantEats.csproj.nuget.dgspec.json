@@ -18,15 +18,15 @@
           "/Users/a10703119/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-android33"
+          "net8.0-android"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-android33.0": {
-            "targetAlias": "net8.0-android33",
+          "net8.0-android34.0": {
+            "targetAlias": "net8.0-android",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0-android33.0": {
-          "targetAlias": "net8.0-android33",
+        "net8.0-android34.0": {
+          "targetAlias": "net8.0-android",
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
