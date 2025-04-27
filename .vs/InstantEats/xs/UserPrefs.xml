@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{00475753-32BA-4BED-9753-05A7C50086DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.InstantEats PreferredExecutionTarget="Android.Pixel_7_Pro_API_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InstantEats/Platforms/Android/MainApplication.cs">
+    <Files>
+      <File FileName="InstantEats/Platforms/Android/MainActivity.cs" />
+      <File FileName="InstantEats/Platforms/Android/MainApplication.cs" Line="7" Column="47" />
+      <File FileName="InstantEats/InstantEats.csproj" Line="64" Column="84" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstantEats" expanded="True">
+            <Node name="InstantEats">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True">
+                  <Node name="MainApplication.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_7_Pro_API_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
